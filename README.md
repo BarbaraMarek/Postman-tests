@@ -1,10 +1,10 @@
 # Postman-tests
 
-My exported collections created in Postman during testing API
+My exported Collections created in Postman during testing API
 
 
 
-JSON Plceholder Collection: https://jsonplaceholder.typicode.com/
+JSON Placeholder Collection: https://jsonplaceholder.typicode.com/
 
 Postman Demo Collection: https://github.com/danielplawgo/PostmanDemo
 
