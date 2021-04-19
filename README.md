@@ -4,8 +4,9 @@ My exported Collections created in Postman during testing API
 
 
 
-JSON Placeholder Collection: https://jsonplaceholder.typicode.com/
+JSON Placeholder Collection: [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
-Postman Demo Collection: https://github.com/danielplawgo/PostmanDemo
+Postman Demo Collection: [PostmanDemo](https://github.com/danielplawgo/PostmanDemo)
 
-Trello Collection: https://api.trello.com
+Trello Collection: [Trello API](https://developer.atlassian.com/cloud/trello/)
+
